@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTF5MfUsa-9dFCOHFTA9xzw)](https://www.youtube.com/channel/UCTF5MfUsa-9dFCOHFTA9xzw)
 ## About me:
-I'm a Fullstack Developer :smile:
+I'm a Front End Developer :smile:
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 ## My specialties:
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
