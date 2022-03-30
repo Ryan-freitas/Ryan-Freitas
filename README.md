@@ -1,5 +1,10 @@
 ### Hi there 👋
+@@ -31,4 +31,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=peguimasid&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
 <!--
 **Ryan-freitas/Ryan-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
